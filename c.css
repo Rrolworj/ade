@@ -1,0 +1,31 @@
+body h1{
+    color: rgb(0, 0, 0);
+    
+    
+    font-size: 20px;
+    margin-left: 50px;
+    
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+display: flex;
+}
+#nm{
+margin-left: 24px;
+
+width: 100%;
+height: 500px;
+
+
+}
+#n{
+    
+
+    width: 100%;
+    height: 500px;
+}
+#m{
+    height: 100%;
+    width: 100%;
+}
